@@ -19,11 +19,11 @@ shtempelyuk.2018@skola.ssps.cz
 - Celkový popis
   - Funkce
     - Tento program má sloužit k sledování těles v blízkosti Země. 
-    - Taky tento program by mohl být určený sledování nebezpečí těles, které jsou blízko Země.
+    - Tento program by mohl být určený sledování nebezpečí těles, které jsou blízko Země.
   - Uživatelské skupiny 
     - Studenti zajímající se o vesmír
   - Omezení návrhu a implementace
-    - zádné znázornění těles
+    - žádné znázornění těles
 - Požadavky na rozhraní
   - Uživatelská rozhraní
     - Android
@@ -38,10 +38,9 @@ shtempelyuk.2018@skola.ssps.cz
   - vstup: počet tělěs, které chceme zobrazit a časový interval ve kterém budeme tato tělesa hledat
 - Nefunkční požadavky
   - Odezva
-    - 1s, než se spustí zvukový signál
+    - Pár sekund, než se zpracují data, zaleží taky na internetovým připojení
   - Spolehlivost
     - Jako švýcarské hodinky  	
   - Bezpečnost
     - Není nutné zadávat svoje osobní údaje
     - Všechno potřebné už budete mít v programu
-  
