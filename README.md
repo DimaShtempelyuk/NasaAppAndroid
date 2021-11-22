@@ -81,10 +81,11 @@ shtempelyuk.2018@skola.ssps.cz
             - Vlevo nahoře nazev aplikace
             - Uprostřed zezhora updown určitý pro zadávaní počtu nebeských těles s popiskem zezhora
             - Uprotřed pole pro zadavání datu, pro který chceme vědět aktuální nebeská tělesa v okolí Země
+            - Uprosřed pod blokem polí, tlačítko "Vyhledat", když se zmačkne, zapne se okno "Výsledky hledání"
         -  Okno "Výsledky hledání"
             - Vypíše se počet nebeských těles a datum ve kterém se hledaly uvedený v okně "Zadávání parametrů"
             - Vypíšou se s několika vlastnostmi a svým názvem
-            - Stranku půjde opustit tlačítkem "zpátky" v levém horním rohu 
+            - Stranku půjde opustit tlačítkem "zpátky" v levém horním rohu, které nás vratí na stránku "Zadávání parametrů"
         -  Chybová hlášení
             - Pouze možnost "ok" pro odkliknití.
             - První chybové hlášení vyskočí při zadání 0 do "počtu". Druhé při zadání špatného formátu času do pole pro zadávání datu.
