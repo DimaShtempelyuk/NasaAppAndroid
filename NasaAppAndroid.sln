@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaAppAndroid.Android", "NasaAppAndroid\NasaAppAndroid.Android\NasaAppAndroid.Android.csproj", "{542CF83F-CA41-4315-9952-79C3F7FB4398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaAppAndroid", "NasaAppAndroid\NasaAppAndroid\NasaAppAndroid.csproj", "{F7C7FB44-D8E9-486A-8651-49BBB9EC62D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NasaAppAndroid", "NasaAppAndroid\NasaAppAndroid\NasaAppAndroid.csproj", "{F7C7FB44-D8E9-486A-8651-49BBB9EC62D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
